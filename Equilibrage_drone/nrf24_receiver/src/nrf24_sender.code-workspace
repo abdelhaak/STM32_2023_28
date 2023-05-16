@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "nrf24_sender",
+			"path": "../../nrf24_sender"
+		},
+		{
+			"name": "nrf24_receiver",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
