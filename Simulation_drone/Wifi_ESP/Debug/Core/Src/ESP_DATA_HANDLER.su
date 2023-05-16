@@ -1,0 +1,5 @@
+../Core/Src/ESP_DATA_HANDLER.c:37:5:sizeofuser	24	static
+../Core/Src/ESP_DATA_HANDLER.c:97:6:ESP_Init	104	static
+../Core/Src/ESP_DATA_HANDLER.c:145:5:Server_Send	104	static
+../Core/Src/ESP_DATA_HANDLER.c:162:6:Server_Handle	6184	static
+../Core/Src/ESP_DATA_HANDLER.c:194:6:Server_Start	144	static
